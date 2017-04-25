@@ -15,6 +15,7 @@
 package com.google.codeu.codingchallenge;
 
 import java.util.Collection;
+Import java.util.HashMap;
 
 final class MyJSON implements JSON {
 //Initialize a variable named strData to a new instance of a hashmap object to store JSON string data
